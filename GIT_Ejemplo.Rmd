@@ -14,5 +14,10 @@ r <- 2
 A <- pi*r^2
 print(A)
 ```
-
+## Cálculo de la longitud circumferencia
+```{r}
+r <- 2
+L <- 2*pi*r
+print(L)
+```
 
